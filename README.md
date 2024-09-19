@@ -36,3 +36,8 @@ Running vscode :
 ![image](https://github.com/user-attachments/assets/fded87f5-e775-484a-9bf8-5926ca6a9c22)
 
 
+### DATABASE TABLE MYSQL
+![image](https://github.com/user-attachments/assets/1e5be536-ab5f-4b13-b208-a742893f0bae)
+
+
+
