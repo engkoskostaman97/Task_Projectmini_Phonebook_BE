@@ -39,5 +39,17 @@ Running vscode :
 ### DATABASE TABLE MYSQL
 ![image](https://github.com/user-attachments/assets/1e5be536-ab5f-4b13-b208-a742893f0bae)
 
+## Scripting 
+![image](https://github.com/user-attachments/assets/620dc41b-5283-4b8f-9567-844d53e63124)
+</br>
+Penjelasan kode diatas :
+</br>
+Terlihat bahwa dalam class entity Product kali ini kita mengunakan plugin Lombok.
+- @Data : untuk menggenerate getter dan setter
+- @NoArgsConstructor : menyediakan konstruktor default
+- @AllArgsConstructor : menyediakan kontruktor dengan parameter sebanyak jumlah
+atribut nya yaitu nama, harga beli dan harga jual.
+- @ToString : untuk menggenerate method toString
+
 
 
